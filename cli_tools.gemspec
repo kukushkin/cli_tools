@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["alex@kukushk.in"]
   spec.description   = %q{A collection of helper methods for ruby CLI applications}
   spec.summary       = %q{CLI application helper methods}
-  spec.homepage      = ""
+  spec.homepage      = "http://github.com/kukushkin/cli_tools"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
