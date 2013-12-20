@@ -52,6 +52,11 @@ ruby ex-ansi.rb
 ```
 
 
+## TODO
+- add more specs
+- write comprehensive docs
+
+
 ## Contributing
 
 1. Fork it
